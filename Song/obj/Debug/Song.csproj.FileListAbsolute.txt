@@ -1,0 +1,6 @@
+c:\Users\Admin\source\repos\Songs\Song\bin\Debug\Song.dll
+c:\Users\Admin\source\repos\Songs\Song\bin\Debug\Song.pdb
+c:\Users\Admin\source\repos\Songs\Song\obj\Debug\Song.csprojResolveAssemblyReference.cache
+c:\Users\Admin\source\repos\Songs\Song\obj\Debug\Song.csproj.CoreCompileInputs.cache
+c:\Users\Admin\source\repos\Songs\Song\obj\Debug\Song.dll
+c:\Users\Admin\source\repos\Songs\Song\obj\Debug\Song.pdb

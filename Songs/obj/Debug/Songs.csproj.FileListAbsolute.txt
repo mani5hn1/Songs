@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\Songs\Songs\bin\Debug\Songs.exe.config
+c:\users\admin\source\repos\Songs\Songs\bin\Debug\Songs.exe
+c:\users\admin\source\repos\Songs\Songs\bin\Debug\Songs.pdb
+c:\users\admin\source\repos\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Songs\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Songs\Songs\obj\Debug\Songs.exe
+c:\users\admin\source\repos\Songs\Songs\obj\Debug\Songs.pdb
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\bin\Debug\Songs.exe.config
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\bin\Debug\Songs.exe
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\bin\Debug\Songs.pdb
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\obj\Debug\Songs.exe
+C:\Users\Manish\Documents\Manish Apprenticeship\QA\Blocks QA\QA C#\Block 1\Songs\Songs\obj\Debug\Songs.pdb
